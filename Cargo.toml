@@ -1,0 +1,17 @@
+[package]
+name = "crawler"
+version = "0.1.0"
+authors = ["Mike Shelton <the.mikex@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+reqwest = { version = "0.11.2", features = ["blocking"] }
+select = "0.5.0"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+colored = "2"
+chrono = "0.4"
+rayon = "1.5.0"
+hyper = "0.14.4"

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Amazon",
+    "product": "Playstation 5",
+    "url": "https://www.amazon.co.uk/gp/product/B08H95Y452",
+    "no_stock_search_term": "We don't know when or if this item will be back in stock."
+  },
+  {
+    "name": "Scan",
+    "product": "Playstation 5",
+    "url": "https://www.scan.co.uk/shop/computer-hardware/gaming-consoles/playstation-ps5-consoles",
+    "no_stock_search_term": "PlayStation 5 Console BD Disk Version - Allocation update soon"
+  },
+  {
+    "name": "Currys",
+    "product": "Playstation 5",
+    "url": "https://www.currys.co.uk/gbuk/sony-ps5/console-gaming/consoles/634_4783_32541_49_ba00013671-bv00313579/xx-criteria.html",
+    "no_stock_search_term": "No results were found for your search."
+  }
+]
